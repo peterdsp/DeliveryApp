@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DeliveyApp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/DeliveyApp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
